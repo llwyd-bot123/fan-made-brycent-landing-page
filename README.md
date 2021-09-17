@@ -1,4 +1,4 @@
-# bryce
+# incomplete fan-made and unofficial brycent landing page
 
 ## Project setup
 ```
